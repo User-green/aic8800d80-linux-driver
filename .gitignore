@@ -1,0 +1,15 @@
+# kernel build artefacts
+*.ko
+*.o
+*.a
+*.mod
+*.mod.c
+*.mod.o
+*.symvers
+.*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+*.order
+*.orig*
+*~
